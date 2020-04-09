@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>blank_afv2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>com.silabs.ss.framework.ide.project.sls.core.SLSProjectNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>external-generated-files/blank_afv2.mak</name>
+			<type>1</type>
+			<location>C:/Program Files (x86)/Ember/EmberZNet4.5.2-GA/em35x-ezsp/blank_afv2.mak</location>
+		</link>
+	</linkedResources>
+</projectDescription>
